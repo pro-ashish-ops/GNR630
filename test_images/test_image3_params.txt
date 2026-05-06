@@ -1,0 +1,6 @@
+sobel_edge_threshold = 32
+param1 = 65
+param2 = 53
+min dist bw centres = 40
+min rad = 10
+max rad = 100
