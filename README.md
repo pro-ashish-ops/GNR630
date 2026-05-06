@@ -17,13 +17,13 @@ The mathematical foundation and efficiency proofs for this specific approach are
 
 1. **The 2-Stage Method (OpenCV Implementation Basis):**
    > Yuen, H. K., Princen, J., Illingworth, J., & Kittler, J. (1990). *Comparative study of Hough Transform methods for circle finding*. Image and Vision Computing, 8(1), 71-77. 
-   > [Link to Paper] *(https://drive.google.com/file/d/1J05tZB9R5e5V7LJ5i-7GOO0RGQ031W-_/view?usp=sharing)
+   > https://drive.google.com/file/d/1J05tZB9R5e5V7LJ5i-7GOO0RGQ031W-_/view?usp=sharing
 
 2. **The Foundational Gradient Constraint:**
    > Kimme, C., Ballard, D., & Sklansky, J. (1975). *Finding circles by an array of accumulators*. Communications of the ACM, 18(2), 120-122.
-   > [Link to Paper] *(https://drive.google.com/file/d/1iHNVs8Z0tB93iz80TF_sxcZe2UmasmBy/view?usp=sharing)*
+   > https://drive.google.com/file/d/1iHNVs8Z0tB93iz80TF_sxcZe2UmasmBy/view?usp=sharing
 
 ## 🚀 How to Run the Application
 1. Clone this repository:
    ```bash
-   git clone [proashops/GNR630]
+   git clone [https://github.com/pro-ashish-ops/GNR630.git]
