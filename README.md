@@ -26,4 +26,4 @@ The mathematical foundation and efficiency proofs for this specific approach are
 ## 🚀 How to Run the Application
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/pro-ashish-ops/GNR630.git]
+   git clone https://github.com/pro-ashish-ops/GNR630.git
