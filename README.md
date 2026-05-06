@@ -27,3 +27,6 @@ The mathematical foundation and efficiency proofs for this specific approach are
 1. Clone this repository:
    ```bash
    git clone https://github.com/pro-ashish-ops/GNR630.git
+
+OR
+Deployed Link: https://circle-detector.streamlit.app/
